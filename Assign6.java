@@ -1,4 +1,3 @@
-package first; 
 import java.util.*; 
 public class Assign6 { 
 	public static void main(String[] args) { 
