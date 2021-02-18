@@ -5,5 +5,6 @@ class Simple{
 	System.out.println("new change");
 	System.out.println("a local new change");
 	System.out.println("new change made from github");
+	System.out.println("new change from github 2");
     }  
 } 
